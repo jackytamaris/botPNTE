@@ -1,0 +1,21 @@
+{
+  "name": "whatsapp",
+  "version": "1.0.0",
+  "description": "Proyecto bot de whatsapp",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "mysql2": "^3.12.0",
+    "node-fetch": "^3.3.2",
+    "openai": "^4.86.1",
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.26.0"
+  }
+}
