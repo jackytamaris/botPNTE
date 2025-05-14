@@ -7,13 +7,13 @@ Tecnologias implementadas
 * Open AI - https://platform.openai.com/
 
 ### .env
-OPENAI_API_KEY = sk-....
-AI_MODEL = gpt-3.5-turbo
-DB_HOST = 127.0.0.1
-DB_USER = root
-DB_PASSWORD =
-DB_NAME = pntebot
-DB_PORT = 3306
+* OPENAI_API_KEY = sk-....
+* AI_MODEL = gpt-3.5-turbo
+* DB_HOST = 127.0.0.1
+* DB_USER = root
+* DB_PASSWORD =
+* DB_NAME = pntebot
+* DB_PORT = 3306
 
 ### Pasos al iniciar
 * clona el repositorio
